@@ -1,17 +1,17 @@
-# Notes Declare 📚
+# Notes Declare <img src=".github/icons/book.svg" width="16" height="16" alt="book">
 
 A repository for organizing and declaring study notes across various technical topics.
 
-## 🎯 Purpose
+## <img src=".github/icons/target.svg" width="16" height="16" alt="target"> Purpose
 
 This repository serves as a central hub for:
-- 📝 Technical study notes and summaries
-- 📖 Book reading notes
+- <img src=".github/icons/note.svg" width="16" height="16" alt="note"> Technical study notes and summaries
+- <img src=".github/icons/book.svg" width="16" height="16" alt="book"> Book reading notes
 - 🎓 Course materials and learnings
-- 🔬 Research paper summaries
-- 💡 Key concepts and definitions
+- <img src=".github/icons/microscope.svg" width="16" height="16" alt="microscope"> Research paper summaries
+- <img src=".github/icons/bulb.svg" width="16" height="16" alt="bulb"> Key concepts and definitions
 
-## 🗂️ Repository Structure
+## <img src=".github/icons/card_index.svg" width="16" height="16" alt="card_index"> Repository Structure
 
 ```
 notes_declare/
@@ -25,7 +25,7 @@ notes_declare/
 └── misc/                  # Miscellaneous topics
 ```
 
-## 📋 Planned Topics
+## <img src=".github/icons/clipboard.svg" width="16" height="16" alt="clipboard"> Planned Topics
 
 ### Algorithms & Data Structures
 - [ ] Sorting algorithms comparison
@@ -57,7 +57,7 @@ notes_declare/
 - [ ] CAP theorem and trade-offs
 - [ ] Microservices patterns
 
-## 🚀 Getting Started
+## <img src=".github/icons/rocket.svg" width="16" height="16" alt="rocket"> Getting Started
 
 ```bash
 # Clone the repository
@@ -69,7 +69,7 @@ mkdir -p algorithms
 touch algorithms/sorting-overview.md
 ```
 
-## 📝 Note Format Template
+## <img src=".github/icons/note.svg" width="16" height="16" alt="note"> Note Format Template
 
 Each note file should follow this structure:
 
@@ -108,14 +108,14 @@ Explanation with examples.
 - [Related Topic](link-to-other-note.md)
 ```
 
-## 🔍 How to Use This Repository
+## <img src=".github/icons/search.svg" width="16" height="16" alt="search"> How to Use This Repository
 
 1. **Browse by topic:** Navigate to the relevant folder
 2. **Search:** Use GitHub's search or grep locally
 3. **Cross-reference:** Follow links between related notes
 4. **Contribute:** Add your own notes following the format
 
-## 📌 Note Categories
+## <img src=".github/icons/pin.svg" width="16" height="16" alt="pin"> Note Categories
 
 | Category | Description | Status |
 |----------|-------------|--------|
@@ -135,5 +135,5 @@ Notes are for personal reference and educational purposes.
 ---
 
 <p align="center">
-  <sub>📚 Organizing knowledge, one note at a time.</sub>
+  <sub><img src=".github/icons/book.svg" width="16" height="16" alt="book"> Organizing knowledge, one note at a time.</sub>
 </p>
